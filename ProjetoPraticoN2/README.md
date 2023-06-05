@@ -26,11 +26,11 @@
 • Percentuais de cada valor de cinza na imagem[ok]
 
 • Aplicar:
-  • Use a aplicação criada para processar 10 imagens com escala de cinza
-  • Para cada imagem, identifique:
-    • Mínimo valor de cinza
-    • Máximo valor de cinza
-    • Percentuais de cada valor de cinza encontrado na imagem
+  • Use a aplicação criada para processar 10 imagens com escala de cinza[ok]
+  • Para cada imagem, identifique:[ok]
+    • Mínimo valor de cinza[ok]
+    • Máximo valor de cinza[ok]
+    • Percentuais de cada valor de cinza encontrado na imagem[ok]
     • Construa o histograma de valores de cinza de cada imagem
     • Faça uma analise comparativa entre as imagens.
 
@@ -42,4 +42,5 @@
 
 • No artigo selecionado para o projeto:
     • Quais os filtros aplicados? Explique a justificativa de sua aplicação no  problema.
+Sombra?
     • Caso o seu atrigo não adote filtros, analise se eles seriam úteis ao problema, justificando sua recomendação.
