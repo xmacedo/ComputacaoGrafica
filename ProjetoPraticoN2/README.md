@@ -16,7 +16,7 @@
 
 ### Projeto – Etapa II
 
-• Implementar:
+• Implementar: [OK]
 • Carregamento de imagem [OK]
 • Aplicação de escala de cinza [OK]
 • Apresentação das propriedades da imagem (ex. dimensão, valores de cinza, etc.)[ok]
