@@ -97,8 +97,8 @@ public class GrayScaleConversionExample {
             }
         }
 
-        //System.out.println("O mínimo valor de cinza é: " + minGrayValue);
-        //System.out.println("O Maximo valor de cinza é: " + maxGrayValue);
+        System.out.println("O mínimo valor de cinza é: " + minGrayValue);
+        System.out.println("O Maximo valor de cinza é: " + maxGrayValue);
         int totalPixels = largura * altura;
         calculaPercentuais(grayLevelCounts, totalPixels);
         calcularHistograma(grayImage, nomeImagem);
